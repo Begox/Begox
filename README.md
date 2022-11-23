@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently working with infrastructure, support and maintenance for users and companies.<br>👯 I’m looking to collaborate on Web Development projects on Front-End<br>🤝 I’m looking for help with Remote Jobs in Web Dev.<br>🌱 I’m currently learning Web Development (Front-End) <br>💬 Ask me about anything.<br>⚡ Sou bacharel em Biologia (UFC) e possuo MBA em Business e Execultive Coaching (Febracis), tambem possuo longa formação em Master Coaching(Golden Belt Febracis)
+🔭 I'm currently working with infrastructure, support and maintenance for users and companies.<br>👯 I’m looking to collaborate on Web Development projects on Front-End<br>🤝 I’m looking for help with Remote Jobs in Web Dev.<br>🌱 I’m currently learning Web Development (Front-End) <br>💬 Ask me about anything.<br>⚡ 
+I have a bachelor's degree in Biology (UFC) and an MBA in Business and Executive Coaching (Febracis), I also have a long training in Master Coaching (Golden Belt Febracis)
 
 
 ## 🌐 Socials:
